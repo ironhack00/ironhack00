@@ -16,8 +16,8 @@ Sequalize
 GitHub
 
 
-
 Contact me:
-![vecteezy_blue-color-white-background-linkedin-design-logo-sign-symbol_9097186](https://user-images.githubusercontent.com/98292289/200659834-b591cdfd-4407-4665-96ba-4dda4424bb05.jpg) Linkedin: https://www.linkedin.com/in/kevin-correa-dev/
+💾 Linkedin: [https://www.linkedin.com/in/kevin-correa-dev/](https://www.linkedin.com/in/guillermo-fernandez-developer/)
+💾 Email: guille.fernandeeez@gmail.com
 
-![image](https://user-images.githubusercontent.com/98292289/200656867-1ac21851-70b7-4390-9789-b3c76c6df868.png)
+

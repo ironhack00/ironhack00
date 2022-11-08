@@ -16,7 +16,7 @@ React &&
 Redux &&
 Postgres &&
 Sequalize &&
-GitHub && 
+GitHub  
 
 
 Contact me:

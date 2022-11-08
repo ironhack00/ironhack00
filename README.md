@@ -4,9 +4,13 @@
 
 About Guillermo Fernandez:
 
-Nice to meet you, my name is Guillermo German Fernández, I am a Full Stack developer. I am currently in search of a job and new challenges, which allow me to keep myself in constant learning in order to continue developing and growing professionally. 
+Full Stack Developer, passionate about new technologies.
+I am currently looking for a job and new challenges, which allow me to stay in constant learning in order to continue developing and growing professionally.
+I consider myself a creative person, capable of teamwork. 
 ///
-Mucho gusto mi nombre es Guillermo German Fernández, soy desarrollador Full Stack. Actualmente me encuentro en la busqueda de un trabajo y nuevos desafios, que me permitan mantenerme en un  constante aprendizaje para poder seguir desarrollándome y crecer profesionalmente
+Desarrollador Full Stack, apasionado por las nuevas tecnologías.
+Actualmente me encuentro en la busqueda de un trabajo y nuevos desafios, que me permiten mantenerme en un aprendizaje constante para poder seguir desarrollándome y crecer profesionalmente
+Me considero una persona creativa, capaz de trabajar en equipo.
 
 Technologies I use:
 NodeJs &&

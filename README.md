@@ -9,11 +9,12 @@ Mucho gusto mi nombre es Guillermo German Fernández, soy desarrollador Full Sta
 Technologies I use:
 NodeJs &&
 Express &&
+Javascript &&
 React &&
 Redux &&
 Postgres &&
 Sequalize &&
-GitHub &&
+GitHub && 
 
 
 Contact me:

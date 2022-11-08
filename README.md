@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/98292289/200662706-e96cf750-ad64-4cab-8e14-5c202ae33e23.png)
+
 ### Hi there 👋
 
 About Guillermo Fernandez:

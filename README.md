@@ -6,7 +6,7 @@ About Guillermo Fernandez:
 
 Full Stack Developer, passionate about new technologies.
 I am currently looking for a job and new challenges, which allow me to stay in constant learning in order to continue developing and growing professionally.
-I consider myself a creative person, capable of teamwork. 
+I consider myself a creative person, capable of working in a team. 
 
 ///
 
